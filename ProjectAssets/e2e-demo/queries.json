@@ -1,0 +1,25 @@
+[
+  {
+    "queryName": "query01",
+    "refreshFlag": false,
+    "type": "Everything",
+    "acceptCached": false,
+    "query": "news",
+    "language": "en",
+    "pageSize": 10,
+    "apiKey": "b24f9d5564944aa3acd556097bece75c",
+    "q": "saw"
+  },
+  {
+    "queryName": "query02",
+    "refreshFlag": false,
+    "type": "Everything",
+    "acceptCached": false,
+    "query": "build",
+    "searchIn": "title",
+    "sortBy": "relevancy",
+    "pageSize": 10,
+    "apiKey": "b24f9d5564944aa3acd556097bece75c",
+    "q": "build"
+  }
+]

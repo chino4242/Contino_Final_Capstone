@@ -1,0 +1,12 @@
+{
+  "type": "module",
+  "scripts": {
+    "front-end": "set PORT=3010 && node server.cjs",
+    "back-end": "set PORT=4010 && node ./back-end/index.js",
+    "mongodb": "C:/Software/MongoDB/Server/6.0/bin/mongod",
+    "mongosh": "C:/Software/mongosh/mongosh-1.8.0-win32-x64/bin/mongosh"
+  },
+  "dependencies": {
+    "http-proxy": "^1.18.1"
+  }
+}
